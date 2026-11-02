@@ -115,7 +115,18 @@ Invoke-RestMethod -Uri $webhookUrl -Method Post -ContentType 'application/json' 
 
 ## Screenshots
 
-Add your sanitized Make.com workflow and Google Sheets result screenshots into the `screenshots/` folder. Crop or redact webhook URLs, account identifiers, spreadsheet IDs, personal data, and other secrets first.
+
+## Screenshots
+
+### Automation Workflow
+![Make.com workflow architecture](workflow-architecture1.png)
+
+### Incident Classification Results
+![Automated incident classification](classification-results.png)
+
+### Duplicate Prevention and Record Updates
+![Existing incident updated](incident-update.png)
+  
 
 ## Tools
 
