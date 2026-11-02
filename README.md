@@ -115,7 +115,6 @@ Invoke-RestMethod -Uri $webhookUrl -Method Post -ContentType 'application/json' 
 
 
 ## Screenshots
-
 ### Automation Workflow
 ![Make.com workflow architecture](workflow-architecture1.png)
 
