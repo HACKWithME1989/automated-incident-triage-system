@@ -113,8 +113,6 @@ Invoke-RestMethod -Uri $webhookUrl -Method Post -ContentType 'application/json' 
 - The **Received At** field was observed to change on an update during testing; preserve creation timestamps separately from **Last Updated** in a future revision.
 - No authentication, monitoring, alerting, retry policy, or access-control hardening is shown here.
 
-## Screenshots
-
 
 ## Screenshots
 
