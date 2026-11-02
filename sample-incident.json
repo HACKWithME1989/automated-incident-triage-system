@@ -1,0 +1,8 @@
+{
+  "incident_id": "INC-DEMO-001",
+  "title": "Server disk failure",
+  "description": "A disk has failed in the production server.",
+  "affected_users": 150,
+  "system": "Production Server",
+  "status": "New"
+}
